@@ -1,0 +1,8 @@
+IMprovements To Do´s:
+
+1. organize all constants
+2. remove bg of all images
+3. remove the reset of  the existing back to first position
+4. revise spped behavior of cars
+5. implement score (every susscefful move up award 100*lv points)
+6. re-align level text to "left)
