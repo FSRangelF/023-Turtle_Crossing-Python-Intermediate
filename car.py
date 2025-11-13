@@ -41,5 +41,5 @@ class Car:
             car.shapesize(stretch_len=2, stretch_wid=3)
             car.teleport(x=random.randint(int(self.screensize/2), int(1.5*self.screensize)), y=random.choice(self.lanes))
             self.cars.append(car)
-            self.speed.append(random.randint(int(self.step*0.8), int(1.5*self.step)))
+            self.speed.append(random.randint(int(self.step*0.5), int(1.5*self.step)))
         print(list_increase)

@@ -7,10 +7,10 @@ import random
 import time
 
 SCREENSIZE = 600
-DELAY = 0.1
+DELAY = 0.09
 MOVE_STEP = 50
-CARS_PER_LEVEL = 2
-SPEED_PER_LEVEL = 2
+CARS_PER_LEVEL = 5
+SPEED_PER_LEVEL = 5
 avg_car_speed = 20
 game_over = False
 
