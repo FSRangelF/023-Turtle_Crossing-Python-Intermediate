@@ -1,36 +1,36 @@
-BG_IMAGE = "023-Turtle_Crossing-Python-Intermediate/images/road.gif"
+BG_IMAGE = "images/road.gif"
 
 SHAPES = [
     {
     'name':"turtlex" , 
-    'path':"023-Turtle_Crossing-Python-Intermediate/images/turtlex.gif",
+    'path':"images/turtlex.gif",
     },
     {
     'name':"car_1" ,
-    'path':"023-Turtle_Crossing-Python-Intermediate/images/car_1.gif",
+    'path':"images/car_1.gif",
     },
     {
     'name':"car_2" ,
-    'path':"023-Turtle_Crossing-Python-Intermediate/images/car_2.gif",
+    'path':"images/car_2.gif",
     },
     {
     'name':"car_3" ,
-    'path':"023-Turtle_Crossing-Python-Intermediate/images/car_3.gif",
+    'path':"images/car_3.gif",
     },
     {
     'name':"car_4" ,
-    'path':"023-Turtle_Crossing-Python-Intermediate/images/car_4.gif",
+    'path':"images/car_4.gif",
     },
     {
     'name':"car_5" ,
-    'path':"023-Turtle_Crossing-Python-Intermediate/images/car_5.gif",
+    'path':"images/car_5.gif",
     },
     {
     'name':"car_6" ,
-    'path':"023-Turtle_Crossing-Python-Intermediate/images/car_6.gif",
+    'path':"images/car_6.gif",
     },
     {
     'name':"car_7" ,
-    'path':"023-Turtle_Crossing-Python-Intermediate/images/car_7.gif",
+    'path':"images/car_7.gif",
     },
 ]
